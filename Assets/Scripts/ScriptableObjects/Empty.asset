@@ -9,9 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3c0777ba6d2d545e780c6f050001b9ee, type: 3}
-  m_Name: CookieTypeListSO
+  m_Script: {fileID: 11500000, guid: ff2778898ba8346bd9ef24e2f33e206b, type: 3}
+  m_Name: Empty
   m_EditorClassIdentifier: 
-  cookieTypeList:
-  - {fileID: 11400000, guid: dc2a0c26eb4ec468aab40fa1cfe8fd9b, type: 2}
-  - {fileID: 11400000, guid: 6ec9dc7a7aad44d8a8ed2feb876f8fd0, type: 2}
+  type: 1
+  sprite: []
+  prefab: {fileID: 4033763952343426159, guid: 885663ec1c4e9492183c8156c1f88a5f, type: 3}
